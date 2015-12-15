@@ -1,0 +1,16 @@
+{
+  "segurancas": [
+    {
+      "Id": 1,
+      "Analise": "Risco de esmagamento e mutilação devido à falta de proteção adequada na zona de impressão da máquina e de corte de material.",
+      "Image":"http://www.gruppograssi.it/images/prodotti/prodotti_taglierine_TGM31E_scontornata.jpg",
+      "Medida": "Instalar proteção móvel com intertravamento com bloqueio na parte frontal dos cilindros da área de impressão da máquina. A proteção deve ser contínua de policarbonato ou grade de aço. No caso desta última, a mesma deve estar sinalizada na cor amarela e devem ser observados os critérios de espaçamento e distanciamento do Anexo I da NR-12. Em caso de acionamento do dispositivo de segurança, a máquina deverá exigir rearme manual em seu painel de comando. Um esboço da solução proposta pode ser visto na figura abaixo, em vermelho o dispositivo de intertravamento com bloqueio."
+    },
+    {
+      "Id": 2,
+      "Analise": "Risco de esmagamento de mãos e dedos devido à falta de proteção fixa no misturador",
+      "Image":"http://www.pecformas.ind.br/img_misturador/misturador_g.jpg",
+      "Medida": "Instalar dispositivo de proteção fixa do tipo grade nas aberturas de entrada e saída de materiais no misturador. A proteção deve estar sinalizada na cor amarela e o distanciamento e espaçamento devem ser de forma que os dedos não alcancem as áreas de risco. (Anexo I da NR 12)."
+    }
+  ]
+}
