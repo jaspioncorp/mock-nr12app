@@ -1,0 +1,22 @@
+{
+  "name": "mock-nr12app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarecimatec/mock-nr12app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarecimatec/mock-nr12app/issues"
+  },
+  "homepage": "https://github.com/softwarecimatec/mock-nr12app#readme",
+  "dependencies": {
+    "json-server": "^0.8.4"
+  }
+}
