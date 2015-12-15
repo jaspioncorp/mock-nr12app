@@ -2,7 +2,7 @@ var jsonServer = require('json-server');
 var path = require("path");
 var fs = require('fs');
 
-var jsonfolder = path.join(process.cwd(), 'dbs/');
+var jsonfolder = path.join(__dirname, 'dbs/');
 var db = {};
 var files = fs.readdirSync(jsonfolder);
 files.forEach(function (file) {
