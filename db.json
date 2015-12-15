@@ -1,4 +1,12 @@
-"Posts": {
-	"id": 12,
-	"nome": "teste"
+{
+	"Posts": [
+		{
+			"Id": 1,
+			"nome": "teste 1"
+		},
+		{
+			"Id": 2,
+			"nome": "teste 2"
+		}
+	]
 }
