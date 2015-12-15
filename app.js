@@ -21,4 +21,4 @@ server.use(jsonServer.defaults());
 var router = jsonServer.router(db);
 server.use(router);
 
-server.listen(3000);
+server.listen(process.env.port || 3000);
