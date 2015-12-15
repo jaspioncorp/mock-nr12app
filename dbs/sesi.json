@@ -1,0 +1,50 @@
+[
+    {
+      "Id": 1,
+      "Titulo": "Saúde e segurança no trabalho",
+      "Descricao": "•	Diagnóstico das condições do ambiente de trabalho (DCAT)
+                      Mapeia e identifica os principais perigos e fatores de risco no ambiente de trabalho. Além disso,
+                      ele recomenda melhorias para as situações encontradas e informa os requisitos legais em NRs-SST."
+    },
+    {
+      "Id": 2,
+      "Titulo": "Consultorias",
+      "Descricao": "•	Condições Ergonômicas do Trabalho (NR 17)
+                      São realizadas avaliações nos postos de trabalho para observar as características das tarefas e o impacto físico,
+                      psíquico e cognitivo nos trabalhadores. Depois de identificados os riscos ergonômicos,
+                      são propostas melhorias de acordo com as necessidades da empresa, conforme recomendação da NR 17"
+    },
+    {
+      "Id": 3,
+      "Titulo": "Treinamentos",
+      "Descricao": "•	NR 05 – Comissão Interna de Prevenção de Acidentes
+                    •	NR 06 – Equipamentos de Proteção Individual
+                    •	NR 10 –Segurança em Instalações e Serviços em Eletricidade
+                    •	NR 15 – Atividades e Operações Insalubres"
+    },
+    {
+      "Id": 4,
+      "Titulo": "Construção civil",
+      "Descricao": "Adaptado à realidade da indústria da construção, o programa atende a NR-18 e
+                    identifica por antecipação os perigos e agentes ambientais nocivos (químicos, físico, biológicos,
+                    fatores ergonômicos e de acidentes) no ambiente da empresa.
+                    São realizadas visitas técnicas de segurança do trabalho, coordenação médica,
+                    consultas ocupacionais e exames complementares."
+    },
+    {
+      "Id": 5,
+      "Titulo": "Saúde Bucal",
+      "Descricao": "•	Consultoria em Saúde Bucal
+                      Executada nas dependências da empresa ou nas clinicas do SESI, inclui a realização de exame odontológico ocupacional,
+                      produção de relatório epidemiológico, emissão de atestado de saúde bucal e realização de ações educativas."
+
+    },
+    {
+      "Id": 6,
+      "Titulo": "Vida Saudável",
+      "Descricao": "•	Diagnóstico de Saúde e Estilo de Vida (DSEV)
+                      O Diagnóstico de Saúde e Estilo de Vida identifica e monitora a condição de saúde de cada trabalhador e
+                      permite o acesso das empresas a soluções que previnam DCNTs (Doenças Crônicas Não Transmissíveis)
+                      e acidentes relacionados ao trabalho"
+    }
+]
