@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node node_modules/json-server/bin db.json --port process.env.port"
+    "start": "node node_modules/json-server/bin db.json --port 4567"
   },
   "repository": {
     "type": "git",
