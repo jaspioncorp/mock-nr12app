@@ -1,7 +1,7 @@
 var jsonServer = require('json-server');
 var fs = require('fs');
 
-var jsonfolder = __dirname+"/dbs/";
+var jsonfolder = "./dbs/";
 var db = {};
 var files = fs.readdirSync(jsonfolder);
 files.forEach(function (file) {
