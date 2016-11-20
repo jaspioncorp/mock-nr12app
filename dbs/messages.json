@@ -1,21 +1,21 @@
 [
 	{
-		"Id": 1,
+		"id": 1,
 		"title": "Promoção dia das Mães",
 		"description": "Venha Curtir o dia dos pais ganhando um desconto na primeira aula. Venha logo vc vai se amarrar"
 	},
   {
-		"Id": 2,
+		"id": 2,
 		"title": "Novo App Alpha Fitness",
 		"description": "Esse é o novo app da alpha fitness, aqui vc vai curtir muito e poder acompanhar seu treinos com mais emoção, com o app da alpha sua vida mudou para melhor"
 	},
   {
-		"Id": 3,
+		"id": 3,
 		"title": "Promoção meu natal minha Alpha Fitness",
 		"description": "Esse é o novo app da alpha fitness, aqui vc vai curtir muito e poder acompanhar seu treinos com mais emoção, com o app da alpha sua vida mudou para melhor"
 	},
   {
-		"Id": 4,
+		"id": 4,
 		"title": "Reveilon da Alpha Fitness!!",
 		"description": "Venha malhar na hora da virada e curta toda a emoção da alpha na hora da virada vai ser uma loucura e ainda ganhe um sheik da virada com banana e abacate!"
 	}
